@@ -7,6 +7,9 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b  # ← НОВАЯ ФУНКЦИЯ
 
+def divide(a, b):
+    return a / b  # ← НОВАЯ ФУНКЦИЯ
+
 # Главная функция
 if __name__ == "__main__":
     print("Калькулятор")
